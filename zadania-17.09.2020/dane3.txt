@@ -1,0 +1,2 @@
+Biggest value: 94 
+Arithmetic mean: 59.9
